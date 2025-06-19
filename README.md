@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arpan-indrajit-869228203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/your-username" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/arpan_indrajit_55/?_gl=1*jqk9ld*_up*MQ..&gclid=Cj0KCQjwu7TCBhCYARIsAM_S3NjqV64f0alIOTxsB_MLsemtmLbx1ociZ8eP_DrlJEuily7mbCPOA4kaAvCBEALw_wcB&gbraid=0AAAAAC9yBkAxbX8kQd5INUhzjfmviQQfb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" height="30" width="40" /></a>
 </p>
 
 ### 🛠️ Languages and Tools:
