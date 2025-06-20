@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Indrajit</h1>
-<h3 align="center">A passionate Data Analytics and Machine Learning Engineer from India</h3>
+<h3 align="center">An aspiring Data Analytics and Machine Learning Engineer currently pursuing my B.Tech in India</h3>
+
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
