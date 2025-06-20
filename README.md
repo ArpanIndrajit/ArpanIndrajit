@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpan Indrajit</h1>
+<h1 align="center">Hi 👋, I'm Arpana Indrajit</h1>
 <h3 align="center">An aspiring Data Analytics and Machine Learning Engineer currently pursuing my B.Tech in India</h3>
 
 
